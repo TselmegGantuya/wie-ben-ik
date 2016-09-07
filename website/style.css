@@ -1,0 +1,33 @@
+html{
+	height: 120%;
+	width: 100%;
+}
+head{
+	
+}
+
+body{
+background-color:#33b8ff;
+height:120%;
+background-image: linear-gradient(to bottom, #33b8ff, #33b8ff 62%, #25fd2b 50%, #25fd2b);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+	color: white;
+}
+img{
+	height: 480px;
+	width: 640px ;
+	border-radius: 2500px;
+	opacity: 1;
+}
+p{ 	
+	position: absolute;	
+	color: #fa7716;
+	font-size: 15px;
+	
+}
+a{
+	color:#fad116;
+}
